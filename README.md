@@ -1,7 +1,7 @@
 # Hello, I'm Maciej, welcome to my world 🪐
 
 ### I'd like to describe myself in a few words:
-* 22 y/o guy from Poland 
+* 22 y/o ambitious guy from Poland 
 * Final year CS student at Gdansk University of Technology
 * Part-time Android developer (2y exp) at Drutex S.A.
 * Currently studying Spring framework and Linux
