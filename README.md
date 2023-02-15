@@ -1,9 +1,9 @@
 # Hello, I'm Maciej, welcome to my world 🪐
 
 ### I'd like to describe myself in a few words:
-* 22 y/o ambitious guy from Poland 
-* Final year CS student at Gdansk University of Technology
-* Part-time Android developer (2y exp) at Drutex S.A.
+* 23 y/o ambitious guy from Poland 
+* Bachelor degree of CS at Gdansk University of Technology
+* Android developer (2.5y exp) at Holte Software
 * Currently studying Spring framework and Linux
 * Winner of the 1st BEST PG Hackathon 
 * Fishing freak in free time
